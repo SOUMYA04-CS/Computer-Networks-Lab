@@ -1,0 +1,8 @@
+CSE/PC/B/S/314 Computer Networks Lab
+Assignment 4: Implement CDMA with Walsh code.
+Due on: 05-09 October 2026
+Report submission due on: next lab class
+Use the same sender-receiver design as previous assignments.
+In this assignment you have to implement CDMA for multiple access of a common channel by n
+stations. Each sender uses a unique code word, given by the Walsh set, to encode its data, send
+it across the channel, and then perfectly reconstruct the data at n stations.
